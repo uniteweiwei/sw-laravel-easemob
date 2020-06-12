@@ -2,9 +2,9 @@
     "name": "sw/laravel-easemob-enlarge",
     "description": "环信即时通讯laravel包开发，用于环信用户、群、聊天室等功能，并扩展一些字段",
     "keywords": [
-        "link1st",
+        "sw",
         "laravel",
-        "easemob"
+        "easemob-enlarge"
     ],
     "license": "MIT",
     "minimum-stability": "stable",
